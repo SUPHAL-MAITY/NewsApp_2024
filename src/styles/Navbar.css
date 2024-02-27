@@ -1,0 +1,16 @@
+ #dropdown{
+    
+    margin-top: 11px;
+    border-radius: 6px;
+    border-color: #d0208c;
+    box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
+    background-color: #efd1d1;
+}
+
+.btn-secondary{
+    color: #fff;
+    background-color: #afb3b7;
+    border-color: #0f1112de;
+    padding: 0;
+    height: 38px;
+}
